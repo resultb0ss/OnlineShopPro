@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155306996010",
+    "project_id": "onlineshoppro-4917a",
+    "storage_bucket": "onlineshoppro-4917a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155306996010:android:0989f54994face74cc6e53",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfe_7neINSmYMRfWw1E_59IndksXt6x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
