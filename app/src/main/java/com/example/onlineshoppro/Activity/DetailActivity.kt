@@ -48,7 +48,7 @@ class DetailActivity : BaseActivity() {
             picList.add(imageUrl)
         }
 
-        Glide.with(this).load(picList).into(binding.img)
+        Glide.with(this).load(picList[0]).into(binding.img)
 
         binding.picList.adapter = PicAdapter(picList) { selectedImageUrl ->
             Glide.with(this).load(selectedImageUrl).into(binding.img)
